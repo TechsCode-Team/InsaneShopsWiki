@@ -18,4 +18,4 @@
 
 <br />
 
-Generally it is recommended that admins receive the ``insaneshops.admin`` permission, and that all players receive the ''insaneshops.create`` permission
+Generally it is recommended that admins receive the ``insaneshops.admin`` permission, and that all players receive the ``insaneshops.create`` permission
