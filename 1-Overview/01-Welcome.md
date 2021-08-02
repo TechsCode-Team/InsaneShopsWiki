@@ -8,7 +8,6 @@ You can communicate with our support team by joining our **[Discord](https://dis
 ## What can you find on the wiki?
  - [Commands](/wiki/overview) - The list of commands
  - [Permissions](/wiki/overview) - The list of permisisons
- - [Installation Guide](/wiki/installation) - A quick guide on how to isntall Insane shops
+ - [Installation Guide](/wiki/installation) - A quick guide on how to install Insane shops
  - [Features](/wiki/features) - A list with all the features of Insane shops
  - [API](/wiki/api) - A guide on how to use the API for developers
-
