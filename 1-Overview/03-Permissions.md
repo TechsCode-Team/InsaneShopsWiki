@@ -5,7 +5,7 @@ Here is a list of all the permissions that can be used
 * `insaneshops.create`
   The permission to create shops
 * `insaneshops.create.sellshop`
-  Allows the player to create a sell-shop (Witch buys item from the other player)
+  Allows the player to create a sell-shop (Which buys item from the other players)
 * `insaneshops.limit.<limit>`
   Limit how many shops a player can create.
 * `insaneshops.commands.shops`
