@@ -1,10 +1,12 @@
 # Server Requirements
-You will need either **SpigotMC, PaperMC or [a similar fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** to run Insane shops smoothly. We recommend **[Paper](https://papermc.io/downloads)**.
+For Insane Shops to run smoothly **SpigotMC, PaperMC** or **[a similar fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** will be required. To ensure you have the best performance possible, we recommend using **[PaperMC](https://papermc.io/downloads)**.
 <br>
 
 ## Server Version
-Insane shops has been tested and supported on versions between **1.8.8 - 1.17.x**. Versions out of this range are not be supported and will not recieve support.
-**`NOTE:` Newly released versions are mainly tested on the latest version of Spigot or Paper.**
+Insane Shops is supported on all versions (release) from **1.8.8 to 1.18.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
+<br>
+
+**`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
 
 # Download The Latest Build
