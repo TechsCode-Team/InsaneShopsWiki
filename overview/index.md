@@ -4,15 +4,17 @@ Welcome to the Wiki page of Insane shops, where you can find all the information
 
 ## Contact
 You can communicate with our support team by joining our **[Discord](https://discord.gg/3JuHDm8)**. It is the only way we can give you support once you have verified your purchase.
+<br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
-- [Permissions](/wiki/overview) - The list of permisisons
-- [Installation Guide](/wiki/installation) - A quick guide on how to install Insane shops
-- [Features](/wiki/features) - A list with all the features of Insane shops
-- [API](/wiki/api) - A guide on how to use the API for developers
+- [Commands](./overview#commands) - The list of commands
+- [Permissions](./overview#perms) - The list of permisisons
+- [Installation Guide](./installation) - A quick guide on how to install Insane shops
+- [Features](./features) - A list with all the features of Insane shops
+- [API](./api) - A guide on how to use the API for developers
+<br>
 
-# Commands
+# Commands {#commands}
 Here is a list of all the commands that can be used.
 <br>
 
@@ -20,8 +22,9 @@ Here is a list of all the commands that can be used.
   To open the Administrative GUI
 * `/shops`
   To open the shop list GUI
+<br>
 
-# Permissions
+# Permissions {#perms}
 Here is a list of all the permissions that can be used
 <br>
 
