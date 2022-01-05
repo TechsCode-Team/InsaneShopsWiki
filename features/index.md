@@ -5,7 +5,7 @@ Below you can find all the available features of Insane Shops. If you want to re
 # Main features of Insane shops
 <br>
 
-Here are all the default features from Insane shops
+Here are all the features of Insane Shops.
 <br>
 
 * **`Item Blacklist`**
