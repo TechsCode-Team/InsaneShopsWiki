@@ -10,4 +10,4 @@ Insane Shops is supported on all versions (release) from **1.8.8 to 1.18.X**. Ve
 <br>
 
 # Download The Latest Build
-Download the latest build of Insane shops via the resource page **[here](https://www.spigotmc.org/resources/insane-shops.67352/)**
+Download the latest build of Insane Shops via the resource page **[here](https://www.spigotmc.org/resources/insane-shops.67352/)**
