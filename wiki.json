@@ -27,6 +27,11 @@
     "subItems": {
       "server": {
         "title":"Server"
+      },
+      "language": {
+        "title":"Language",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       }
     }
   },
