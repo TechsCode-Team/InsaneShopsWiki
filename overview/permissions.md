@@ -5,7 +5,9 @@ Here is a list of all the permissions that can be used
 * `insaneshops.admin`
   Admin permission to able open /insaneshops
 * `insaneshops.create`
-  The permission to create shops
+  Allows to create shops 
+* `insaneshops.enderchest.shop`
+  Allows to create shops with enderchest
 * `insaneshops.create.sellshop`
   Allows the player to create a sell-shop (Which buys item from the other players)
 * `insaneshops.limit.<limit>`
