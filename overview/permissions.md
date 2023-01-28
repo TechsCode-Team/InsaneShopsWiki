@@ -16,6 +16,8 @@ Here is a list of all the permissions that can be used
   Allows the player to use the /Shops command
 * `insaneshops.teleportToShop`
   Allows the player to teleport to shops
+* `insaneshops.worldGuardFlag.bypass`
+  Allows the player to bypass the worldGuard shop creation flag
 <br>
 
 ## Symbols:
