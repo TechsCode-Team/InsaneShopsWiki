@@ -42,6 +42,11 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
+      "multi_currency": {
+        "title":"Multiple Currencies",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
 
     }
   },
