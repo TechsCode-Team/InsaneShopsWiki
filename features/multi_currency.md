@@ -9,23 +9,27 @@ that you open by executing the command `/insaneshops`.
 <br>
 
 Then click on the Command Block on the right side of the GUI. *(Called `Settings`)*
+<br>
 
 ![SettingsButton](https://imgur.com/krTLRDP.png)
 <br>
 
 Then click on the Bowl in the upper-right of the GUI. *(Called `Miscellaneous`)*
+<br>
 
 ![MiscButton](https://imgur.com/aLaQU0b.png)
 <br>
 
 After you clicked, it will show you an Emerald icon *(Called `Multiple Currencies`)*,
 which will let you define the currency setting.
+<br>
 
 ![MultiCurrency](https://imgur.com/xJAb8Jo.png)
 <br>
 
 You need to Right Click the Emerald icon *(Called `Multiple Currencies`)*
 to allow shops define which currency will they use.
+<br>
 
 ![MultiCurrencyRClick](https://imgur.com/ylzAVZl.png)
 <br>
@@ -46,6 +50,7 @@ The **Multiple Currencies Feature** adds a few features that will be listed and 
 ## Global Shop Currency
 By Left Clicking on the Emerald icon *(Called `Multiple Currencies`)* another GUI will appear on your screen,
 where you will be able to define which currency will all shops use.
+<br>
 
 ![GlobalShopCurrency](https://imgur.com/AS5WhDW.png)
 <br>
@@ -54,6 +59,7 @@ where you will be able to define which currency will all shops use.
 By Right Clicking on the Emerald icon *(Called `Multiple Currencies`)* you will let players choose what currency they want to use.
 This is done in the Shop Settings *(Right Click on a shop)* by clicking on the Emerald Icon *(Called `Shop Currency`).
 After you clicked, another GUI will apear on your screen where you will be able to choose a currency for your shop.
+<br>
 
 ![ShopOwnCurrency](https://imgur.com/7DWIJHG.png)
 <br>
@@ -61,6 +67,7 @@ After you clicked, another GUI will apear on your screen where you will be able 
 ## Default Vault Currency
 When hovering over the Emerald icon *(Called `Multiple Currencies`)* and pressing Q, 
 you will make every shop use the currency that is set as Vault in the UltraEconomy settings.
+<br>
 
 ![DefaultVaultCurrency](https://imgur.com/pXDrcKW.png)
 <br>
