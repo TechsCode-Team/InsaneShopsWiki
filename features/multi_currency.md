@@ -47,7 +47,7 @@ The **Multiple Currencies Feature** adds a few features that will be listed and 
 By Left Clicking on the Emerald icon *(Called `Multiple Currencies`)* another GUI will appear on your screen,
 where you will be able to define which currency will all shops use.
 
-![GlobalShopCurrency](https://imgur.com/a/Fm8BBjb.png)
+![GlobalShopCurrency](https://imgur.com/AS5WhDW.png)
 <br>
 
 ## Shop Own Currency
@@ -55,7 +55,7 @@ By Right Clicking on the Emerald icon *(Called `Multiple Currencies`)* you will 
 This is done in the Shop Settings *(Right Click on a shop)* by clicking on the Emerald Icon *(Called `Shop Currency`).
 After you clicked, another GUI will apear on your screen where you will be able to choose a currency for your shop.
 
-![ShopOwnCurrency](https://imgur.com/a/bix0kdZ.png)
+![ShopOwnCurrency](https://imgur.com/7DWIJHG.png)
 <br>
 
 ## Default Vault Currency
