@@ -1,73 +1,130 @@
 {
   "overview": {
     "iconType": "fa-solid",
-    "icon":"map",
-    "title":"Overview",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "map",
+    "title": "Overview",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "commands": {
         "title": "Commands",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://insaneshops.com/wiki/overview/permissions",
+          "title": "Permissions"
+        }
       },
       "permissions": {
         "title": "Permissions",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "prev": {
+          "url": "https://insaneshops.com/wiki/overview/commands",
+          "title": "Commands"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "installation": {
     "iconType": "fa-solid",
-    "icon":"tasks",
-    "title":"Installation",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "tasks",
+    "title": "Installation",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "server": {
-        "title":"Server"
+        "title": "Server",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://insaneshops.com/wiki/installation/language",
+          "title": "Language"
+        }
       },
       "language": {
-        "title":"Language",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Language",
+        "prev": {
+          "url": "https://insaneshops.com/wiki/installation/server",
+          "title": "Server"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "features": {
     "iconType": "fa-solid",
-    "icon":"info",
-    "title":"Features",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "info",
+    "title": "Features",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "multi_currency": {
-        "title":"Multiple Currencies",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Multiple Currencies",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
-
     }
   },
   "faq": {
     "iconType": "fa-solid",
-    "icon":"question",
-    "title":"FAQ",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "question",
+    "title": "FAQ",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   },
   "api": {
     "iconType": "fa-solid",
-    "icon":"code",
-    "title":"API",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "code",
+    "title": "API",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   }
 }
