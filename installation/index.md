@@ -7,6 +7,7 @@ Insane Shops is supported on all versions (release) from **1.8.8 to 1.21.X**. Ve
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
+<br>
 While we work on updating the core of our plugins, our plugins currently do not support Velocity or any fork thereof. 
 <br>
 
