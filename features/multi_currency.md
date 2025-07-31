@@ -77,4 +77,4 @@ you will make every shop use the currency that is set as Vault in the UltraEcono
 <br>
 <br>
 
-_If you have more questions about this feature, feel free to ask them in our **[Discord](https://discord.gg/3JuHDm8)**._
+_If you have more questions about this feature, feel free to ask them in our **[Discord](https://insaneshops.com/discord)**._
