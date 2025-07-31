@@ -12,5 +12,9 @@ While we work on updating the core of our plugins, our plugins currently do not 
 
 # Download The Latest Build
 Download the latest build of Insane Shops via one of the following resources page:
-**[SpigotMC here](https://www.spigotmc.org/resources/insane-shops.67352/)**
-**[BuiltByBit Here](https://builtbybit.com/resources/insane-shops.19032/)**
+<br>
+**[SpigotMC](https://www.spigotmc.org/resources/insane-shops.67352/)**
+<br>
+or
+<br>
+**[BuiltByBit](https://builtbybit.com/resources/insane-shops.19032/)**
