@@ -31,4 +31,6 @@ If you see a gui, that means you are good to go!
 If you encounter any [ERROR] messages when attempting to install the plugin, or encounter issues using the plugin you can reach out to our support team on **[Discord](https://insaneshops.com/discord).
 
 <br>
+
 **`Note:` In order to receive support for one of our paid plugins you must first verify your purchase. Purchase Verifications may take up to 48 hours to complete.**
+<br>
