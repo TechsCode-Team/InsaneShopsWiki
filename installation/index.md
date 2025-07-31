@@ -3,11 +3,14 @@ Insane Shops requires **[Spigot](https://getbukkit.org/download/spigot)**, **[Pa
 <br>
 
 ## Server Version
-Insane Shops is supported on all versions (release) from **1.8.8 to 1.18.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
+Insane Shops is supported on all versions (release) from **1.8.8 to 1.21.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
+While we work on updating the core of our plugins, our plugins currently do not support Velocity or any fork thereof. 
 <br>
 
 # Download The Latest Build
-Download the latest build of Insane Shops via the resource page **[here](https://www.spigotmc.org/resources/insane-shops.67352/)**
+Download the latest build of Insane Shops via one of the following resources page:
+**[SpigotMC here](https://www.spigotmc.org/resources/insane-shops.67352/)**
+**[BuiltByBit Here](https://builtbybit.com/resources/insane-shops.19032/)**
