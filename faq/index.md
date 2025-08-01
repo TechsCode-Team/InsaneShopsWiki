@@ -12,3 +12,5 @@ Here are all the frequently asked questions from Insane Shops.
   You can make suggestions at our [Discord Server](https://insaneshops.com/discord).
 * **`Does Insane Shops work in offline-mode?`**
   No, Insane Shops does not work in offline-mode because we store the user data via UUID
+* **`Does the plugin support Velocity?`**
+  At the moment it does not support Velocity, but in the future it wil.
