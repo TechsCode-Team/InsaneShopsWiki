@@ -1,6 +1,5 @@
 # Language
 Once you have installed Insane Shops you can change the language it will use, and therefore change the names of buttons, messages and more. You can decide whether to use the 12 translations we provide by default or create your own.
-
 <br>
 
 ## Default Languages
