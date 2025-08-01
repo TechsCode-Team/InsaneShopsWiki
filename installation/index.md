@@ -16,6 +16,6 @@ Download the latest build of Insane Shops via one of the following resources pag
 <br>
 **[SpigotMC](https://www.spigotmc.org/resources/insane-shops.67352/)**
 <br>
-or
+**[PolyMart](https://polymart.org/product/1202/insane-shops)**
 <br>
 **[BuiltByBit](https://builtbybit.com/resources/insane-shops.19032/)**
