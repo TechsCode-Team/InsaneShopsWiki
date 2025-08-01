@@ -37,4 +37,4 @@ Then click on the language that you created.
 # Contribute
 We are always looking to expand our plugin's community. If you find a language our plugin does not currently support, feel free to create a Pull Request on our [GitHub repository](https://github.com/TechsCode-Team/PluginTranslations/tree/main/Translations). 
 
-Thank you to those who put in the time to translate our plugins. <3
+*Thank you to those who put in the time to translate our plugins. <3*
