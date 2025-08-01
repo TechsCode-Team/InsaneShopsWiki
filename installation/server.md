@@ -1,7 +1,11 @@
 # Server installation
 First step is to download Insane Shops. You can find the files you need either: 
-**[Here for SpigotMC](https://www.spigotmc.org/resources/insane-shops.67352/updates)** or
-**[Here for BuiltByBit](https://builtbybit.com/resources/insane-shops.19032/)**. 
+<br>
+**[Here for SpigotMC](https://www.spigotmc.org/resources/insane-shops.67352/updates)** 
+<br>
+**[Here for BuiltByBit](https://builtbybit.com/resources/insane-shops.19032/)**.
+<br>
+**[Here for PolyMart](https://polymart.org/product/1202/insane-shops)**.
 
 Once you're done with this. `Stop your server`, and put the .jar file inside the `plugins` directory of your server.
 <br>
@@ -19,7 +23,7 @@ While your server is starting, look at the console for any possible [ERROR] mess
 
 You should now be able to do `/insaneshops` to open the GUI.
 <br>
-
+1
 If you see a gui, that means you are good to go!
 <br>
 
@@ -28,7 +32,7 @@ If you see a gui, that means you are good to go!
 
 
 # Support
-If you encounter any [ERROR] messages when attempting to install the plugin, or encounter issues using the plugin you can reach out to our support team on **[Discord](https://insaneshops.com/discord).
+If you encounter any [ERROR] messages when attempting to install the plugin, or encounter issues using the plugin you can reach out to our support team on **[Discord](https://insaneshops.com/discord).**
 
 <br>
 
